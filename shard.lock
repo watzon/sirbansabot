@@ -30,5 +30,5 @@ shards:
 
   tourmaline:
     github: watzon/tourmaline
-    commit: b879281084301bc04449f75d6b161049c79ae537
+    commit: b7c20be171d4ad6a3dd2bf3c27aaa5153f87efd7
 
