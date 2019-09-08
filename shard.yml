@@ -1,0 +1,26 @@
+name: sirbansabot
+version: 0.1.0
+
+authors:
+  - Chris Watson <cawatson1993@gmail.com>
+
+targets:
+  sirbansabot:
+    main: src/sirbansabot.cr
+
+dependencies:
+  tourmaline:
+    github: watzon/tourmaline
+    branch: master
+  micrate:
+    github: juanedi/micrate
+  granite:
+    github: amberframework/granite
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+  tesseract-ocr:
+    github: dannnylo/tesseract-ocr-crystal
+
+crystal: 0.30.1
+
+license: MIT

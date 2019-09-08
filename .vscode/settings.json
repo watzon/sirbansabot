@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "./db/database.sqlite",
+            "dialect": "SQLite",
+            "name": "sirbansabot"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

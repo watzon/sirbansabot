@@ -1,0 +1,34 @@
+version: 1.0
+shards:
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.6.0
+
+  granite:
+    github: amberframework/granite
+    version: 0.17.2
+
+  halite:
+    github: icyleaf/halite
+    commit: bd5d2df4e723cf4a08130478babe5abe6ee6e3da
+
+  micrate:
+    github: juanedi/micrate
+    version: 0.3.3
+
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+    version: 0.13.0
+
+  strange:
+    github: hydecr/strange
+    commit: 92a1397575e33b60ab899c12d83f2866af1a3352
+
+  tesseract-ocr:
+    github: dannnylo/tesseract-ocr-crystal
+    commit: ef76bda0291fdf9e1e777e82c0ca76dbf706ac90
+
+  tourmaline:
+    github: watzon/tourmaline
+    commit: b879281084301bc04449f75d6b161049c79ae537
+
