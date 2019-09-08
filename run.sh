@@ -7,7 +7,7 @@ fi
 shards install
 
 # Run migrations
-bin/micrate up
+./micrate up
 
 # Build the bot
 shards build sirbansabot --release
